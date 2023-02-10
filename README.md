@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: 574196906@qq.com
 
-[](https://github-readme-stats.vercel.app/api?username=NOlanguagen&theme=prussian)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NOlanguagen&theme=prussian)]()
