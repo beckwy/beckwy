@@ -5,7 +5,15 @@ Here are some ideas to get you started:
 -->
 ### Hi guys 👋
 
-- 🔭 ![image](https://github.com/NOlanguage1993/NOlanguage1993/assets/11955454/c8476458-c3af-4d11-b512-7b54c0b1ca9d)![image](https://github.com/NOlanguage1993/NOlanguage1993/assets/11955454/072b89f3-21bf-4d2e-a406-991a161b4fde)
+- 🔭 主要使用：
+[![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=fff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)](https://html.spec.whatwg.org)
+[![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&logoColor=000)](https://www.ecma-international.org)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
+[![](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 - 🌱 I’m currently learning javascript/node/go and data visualization
 - 🤔 I’m looking for web worker
