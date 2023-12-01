@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
-- 🌱 I’m currently learning javascript/node/go and data visualization
-- 🤔 I’m looking for web worker
-- 💬 Ask me about ...
+还有更多...
+- 🌱 目前供职于腾讯云大数据前端WEB团队
+- 🤔 学海无涯：不会的可以学
 - 📫 How to reach me: 574196906@qq.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beck-wu&theme=dracula)]()
