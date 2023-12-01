@@ -5,7 +5,8 @@ Here are some ideas to get you started:
 -->
 ### Hi guys 👋
 
-- 🔭 https://camo.githubusercontent.com/dd84bf3f0987bc2d3afa3f668740dba60a9800d78979c3e2c05fb909658aee6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d666666
+- 🔭 ![image](https://github.com/NOlanguage1993/NOlanguage1993/assets/11955454/c8476458-c3af-4d11-b512-7b54c0b1ca9d)![image](https://github.com/NOlanguage1993/NOlanguage1993/assets/11955454/072b89f3-21bf-4d2e-a406-991a161b4fde)
+
 - 🌱 I’m currently learning javascript/node/go and data visualization
 - 🤔 I’m looking for web worker
 - 💬 Ask me about ...
