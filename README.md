@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 ### Hi guys 👋
 
-- 🔭 I’m currently working on a big data team in Tencent Cloud
+- 🔭 ![image](https://github.com/NOlanguage1993/NOlanguage1993/assets/11955454/7e13d5dd-7ffb-4ce0-ae41-d7c24d619cf0)
 - 🌱 I’m currently learning javascript/node/go and data visualization
 - 🤔 I’m looking for web worker
 - 💬 Ask me about ...
