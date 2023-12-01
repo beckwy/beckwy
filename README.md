@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 还有更多...
 - 🤔 什么，技术不匹配？钱给够，不会的咱们都也可以学。Work is for a better life。
-- 🌱 目前供职于腾讯云大数据前端WEB团队
+- 🌱 做过QQ，腾讯文档，目前就职于腾讯云大数据前端WEB团队。
 - 📫 How to reach me: 574196906@qq.com
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beck-wu&theme=dracula)]()
