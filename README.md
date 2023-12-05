@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 做过QQ，腾讯文档，目前就职于腾讯云大数据前端WEB团队。
 - 📫 How to reach me: 574196906@qq.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beck-wu&theme=dracula)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NOlanguage1993&theme=dracula)]()
