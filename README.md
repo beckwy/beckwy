@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 还有更多...
-- 🤔 什么，技术不匹配？钱给够，不会的咱们都也可以学。Work is for a better life。
+- 🤔 Work is for a better life。
 - 🌱 做过QQ，腾讯文档，目前就职于腾讯云大数据前端WEB团队。
 - 📫 How to reach me: 574196906@qq.com
 
